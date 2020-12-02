@@ -1,0 +1,73 @@
+header {
+	background-color: aquamarine;
+	text-align: center;
+	color: black;
+	border-radius: 10px;
+	border-width: 10px;
+	border-color: white;
+	border-style: groove;
+	text-shadow: 4px 4px 4px white;
+	box-shadow: 3px 3px 3px 3px white;
+}
+/* this is a css comment */
+body {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	background-image: url(clouds.jpg);
+}
+h1 {
+	background-color: aquamarine;
+	color: black;
+	text-align: center;
+	font-size: xx-large;
+}
+h2 {
+	background-color: aquamarine;
+	text-align: center;
+	color: black;
+	border-radius: 10px;
+	border-width: 10px;
+	border-color: white;
+	border-style: groove;
+	text-shadow: 4px 4px 4px white;
+	box-shadow: 3px 3px 3px 3px white;
+	font-size: xx-large;
+}
+h3 {
+	color: white;
+}
+
+nav {
+	align-items: center;
+	text-align: center;
+	font-size: xx-large;
+	color: black;
+}
+p {
+	color: white;
+}
+footer {
+	text-align: center;
+}
+a :visited {
+	background-color: aquamarine;
+	color: hotpink;
+	text-decoration: hotpink;
+}
+a:hover {
+	background-color: aquamarine;
+	color: hotpink;
+}
+
+a:active {
+	background-color: aquamarine;
+	color: hotpink;
+}
+a {
+	color: aquamarine;
+}
+.center-data {
+	display: flex;
+	justify-content: center;
+}

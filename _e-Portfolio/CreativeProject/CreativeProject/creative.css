@@ -1,0 +1,69 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+	background-color: white;
+	text-align: center;
+	color: red;
+	border-radius: 10px;
+	border-width: 10px;
+	border-color: red; border-style: groove;
+}
+h1 {
+	line-height: 200%;
+	color: white font-size 30;
+	text-shadow: 4px 4px 4px black;
+}
+p{
+	color: red;
+}
+
+h2 {
+	text-align: center;
+	color:white;
+	text-shadow: 4px 4px 4px  red;
+}
+h3 {
+	color: white;
+	
+	text-shadow: 4px 4px 4px red;
+}
+h4 {
+	color: white;
+	text-shadow: 2px 2px 5px red;
+}
+title {
+	color: red;
+}
+p {
+	color: white;
+    text-shadow: 4px 4px 4px red;
+	  
+}
+dd {
+	color: white;
+}
+dt {
+	color: white;
+}
+
+nav {
+	text-align: center;
+	font-weight: bold;
+}
+footer {
+	background-color: white;
+	font-size: small;
+	font-style: italic;
+	text-align: center;
+	color: red;
+}
+#wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
